@@ -481,7 +481,7 @@ div.box2 {
     width: 27%;
     height: 35%;
     border: 2px solid rgba(255, 255, 255, 0.7);
-    background-image: url(img/archi.png);
+    background-image: url(img/archi.jpg);
     background-size: 100%;
     background-position: 0 -120px;
     position: relative;
@@ -507,7 +507,7 @@ div.box3 {
     width: 27%;
     height: 35%;
     border: 2px solid rgba(255, 255, 255, 0.7);
-    background-image: url(img/digitalart.png);
+    background-image: url(img/digitalart.jpg);
     background-size: 100%;
     background-position: 0 -80px;
     position: relative;
@@ -533,7 +533,7 @@ div.box4 {
     width: 27%;
     height: 35%;
     border: 2px solid rgba(255, 255, 255, 0.7);
-    background-image: url(img/music.png);
+    background-image: url(img/music.jpg);
     background-size: 100%;
     background-position: 0 -180px;
     position: relative;
@@ -585,7 +585,7 @@ div.box6 {
     width: 27%;
     height: 35%;
     border: 2px solid rgba(255, 255, 255, 0.7);
-    background-image: url(img/drawing.png);
+    background-image: url(img/drawing.jpg);
     background-size: 100%;
     background-position: 0 -150px;
     position: relative;
